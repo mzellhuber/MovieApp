@@ -1,7 +1,7 @@
 
 # MovieApp
 
-MovieApp es una aplicación que te permite explorar películas y visualizar sus detalles. Utiliza el API de TheMovieDB para 
+MovieApp es una aplicación que te permite explorar películas y visualizar sus detalles. Utiliza el API de TheMovieDB para recuperar la información de las películas.
 
 ## Capas de la aplicación 
 - Business
