@@ -1,0 +1,38 @@
+PODS:
+  - Cache (5.2.0)
+  - MBProgressHUD (1.1.0)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - TBEmptyDataSet (2.9)
+  - TwicketSegmentedControl (0.1.2)
+  - ViewAnimator (2.1.1)
+
+DEPENDENCIES:
+  - Cache
+  - MBProgressHUD (~> 1.1.0)
+  - SDWebImage (~> 4.0)
+  - TBEmptyDataSet
+  - TwicketSegmentedControl
+  - ViewAnimator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cache
+    - MBProgressHUD
+    - SDWebImage
+    - TBEmptyDataSet
+    - TwicketSegmentedControl
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  TBEmptyDataSet: 00d37512ef76d8ceed9f4dfb3ce23fdb8951e7a1
+  TwicketSegmentedControl: 6d7a4cf243657e0ac3f00d06d873a25334c04042
+  ViewAnimator: 43c31539508d995ea2c5e98338211f7c009b358f
+
+PODFILE CHECKSUM: 7b6177ce2b7f06398b290b9903bfec714d46b250
+
+COCOAPODS: 1.5.3
